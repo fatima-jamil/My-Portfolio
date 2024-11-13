@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Stock Brokerage Platform",
+    "desc": "Created a MERN-based stock platform with auth, buy/sell dashboard, and sections for Orders, Holdings, and Analytics using MongoDB data.",
+    "image": "zerodha",
+    "category": "MERN",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/fatima-jamil/Zerodha-Clone"
+    }
+  },
+  {
+    "name": "Github Clone",
+    "desc": "Built a GitHub clone using the MERN stack with JWT authentication, repository management, code editing, commits, and issue tracking.",
+    "image": "github",
+    "category": "MERN",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/fatima-jamil/Github-Clone"
+    }
+  },
+  {
+    "name": "College PYQs",
+    "desc": "Developed a college PYQ website with Django, featuring student/admin panels, institute-verified login, and searchable question papers.",
+    "image": "clg_pyq",
+    "category": "python",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/fatima-jamil/Clg-PYQs"
+    }
+  },
+  {
+    "name": "Spotify Clone",
+    "desc": "Built the home page of spotify using HTML, CSS, JavaScript",
+    "image": "spotify",
+    "category": "HTML, CSS, js",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/fatima-jamil/spotify_clone"
+    }
+  },
+  {
+    "name": "Hostpital Website",
+    "desc": "Built website for hospital using HTML, CSS. Through this website user can know about hospital and doctors and user can also book an appointement.",
+    "image": "hospital",
+    "category": "HTML, CSS",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/fatima-jamil/hospital-"
+    }
+  },
+  {
+    "name": "Weather App",
+    "desc": "Built weather app using Reactjs. In this we can search city to see weather of that city.",
+    "image": "weatherApp",
+    "category": "ReactJs",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/jigar-sable/flipkart-mern"
+    }
+  }
+]
