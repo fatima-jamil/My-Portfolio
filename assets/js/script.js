@@ -242,9 +242,9 @@ srtop.reveal('.education .box', { interval: 200 });
 /* SCROLL PROJECTS */
 srtop.reveal('.work .box', { interval: 200 });
 
-/* SCROLL EXPERIENCE */
-srtop.reveal('.experience .timeline', { delay: 400 });
-srtop.reveal('.experience .timeline .container', { interval: 400 });
+/* SCROLL Achievements */
+srtop.reveal('.achievements .timeline', { delay: 400 });
+srtop.reveal('.achievements .timeline .container', { interval: 400 });
 
 /* SCROLL CONTACT */
 srtop.reveal('.contact .container', { delay: 400 });
